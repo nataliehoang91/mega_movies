@@ -14,7 +14,7 @@
     "react-moment": "^0.8.4",
     "react-reactstrap-pagination": "^1.0.5",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "reactstrap": "^7.1.0",
     "semantic-ui": "^2.4.2",
     "semantic-ui-dropdown": "^2.4.1"
